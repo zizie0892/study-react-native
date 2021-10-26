@@ -1,7 +1,7 @@
 import React from "react";
 import {Text, StyleSheet, View} from 'react-native';
 
-const ComponentsScreen = () =>
+const ComponentScreen = () =>
 {
     const name = 'Nazihah';
 
@@ -22,4 +22,4 @@ const styles = StyleSheet.create({
     }
 });
 
-export default ComponentsScreen;
+export default ComponentScreen;
